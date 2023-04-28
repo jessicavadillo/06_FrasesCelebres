@@ -1,0 +1,30 @@
+.fondo {
+    background-color:whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+        font-size: 25px;
+        color: rgb(111, 206, 250);
+        padding-left: 3%;
+        font-weight: 700;
+}
+
+#frase {
+    font-style: italic;
+}
+
+.texto {
+    height: 500;
+}
+h1 {
+    color:rgb(221, 137, 207);
+    font-weight: 900;
+
+}
+
+button {
+    color: rgb(221, 137, 207);
+    background-color: rgb(111, 206, 250);
+    border-color: rgb(111, 206, 250);
+}
